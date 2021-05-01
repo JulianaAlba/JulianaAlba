@@ -33,7 +33,7 @@
 
 
 
-[![Top Langs - Juliana Alba](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAlba&theme=white&langs_count=20)](https://github.com/JulianaAlba/github-readme-stats)
+[![Top Langs - Juliana Alba](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAlba&theme=white&langs_count=20&exclude_repo=CertificacaoCursoGITeGITHUB)](https://github.com/JulianaAlba/github-readme-stats)
 
 
 
