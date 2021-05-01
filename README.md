@@ -17,15 +17,15 @@
 
 
 
-## Data Science | Business Intelligence
-<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/colab.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/anaconda.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/spotfire.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/tableau.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/powerbi.png' width='50'/> 
-
-
-
 ## Framework | IDE | Tools
 <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/flutter.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/jena.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/bootstrap.png' width='50'/>  <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/rails.jfif' width='50'/>
 <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/matlab.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/as.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/vs.jpeg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/eclipse.png' width='50'/> 
-<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/postgree.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/mysql.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/daxstudio.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/git.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/GitHub.jpg' width='50'/> 
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/daxstudio.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/postgree.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/mysql.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/git.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/GitHub.jpg' width='50'/> 
+
+
+
+## Data Science | Business Intelligence
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/colab.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/anaconda.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/spotfire.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/tableau.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/powerbi.png' width='50'/> 
 
 
 
