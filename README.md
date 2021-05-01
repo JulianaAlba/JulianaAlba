@@ -16,14 +16,10 @@
 ## Data Science | Business Intelligence
 <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/spotfire.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/tableau.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/powerbi.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/anaconda.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/colab.png' width='70'/> 
 
-## Framework
-<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/flutter.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/bootstrap.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/jena.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/rails.jfif' width='70'/> 
-
-## IDE
-<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/as.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/vs.jpeg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/eclipse.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/matlab.jpg' width='70'/> 
-
-## Tools
-<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/daxstudio.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/git.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/GitHub.jpg' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/postgree.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/mysql.png' width='70'/>
+## Framework | IDE | Tools
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/flutter.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/bootstrap.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/jena.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/rails.jfif' width='60'/>
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/as.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/vs.jpeg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/eclipse.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/matlab.jpg' width='60'/> 
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/daxstudio.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/git.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/GitHub.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/postgree.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/mysql.png' width='60'/>
 
 ## Graphic Interface | Image Processing | Intelligent Process Automation
 <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/Jupyter.jpeg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/opencv.jpeg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/Bizagi.jpg' width='50'/> 
