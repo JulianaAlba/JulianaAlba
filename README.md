@@ -6,9 +6,9 @@
 - 🔭 Atualmente estou trabalhando como Analista de Business Intelligence, utilizando o Tableau, na empresa Indiana TCS (Tata Consultancy Services).
 - 🌱 Atualmente estou desenvolvendo minhas habilidades com o Flutter, para projetos pessoais.
 - 📫  Pode entrar em contato comigo, caso queira companhia para desempenhar e evoluir em algum projeto em equipe, para portfólio ou de cunho profissional independente, seja você DEV ou UX/UI.
+- 🚀 Iniciei no mundo da Tecnologia em 2013 e durante essa trajetória, tive contato com os objetos abaixo...
 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaalba/)](https://www.linkedin.com/in/julianaalba/) [![Outlook](https://img.shields.io/badge/-jualba.adm%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jualba.adm@hotmail.com)](mailto:jualba.adm@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaalba/)](https://www.linkedin.com/in/julianaalba/) [![Outlook](https://img.shields.io/badge/-jualba.adm%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jualba.adm@hotmail.com)](mailto:jualba.adm@hotmail.com)  ![Profile View Counter](https://komarev.com/ghpvc/?julianaalba=julianaalba)
 
 
 
