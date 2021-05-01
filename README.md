@@ -1,6 +1,7 @@
 
-# Olá, Seja Bem Vinda(o)! 👋
+# Olá, sou Juliana Alba! 👋
 
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/ifelse.png' width='50'/>
 
 - 🔭 Atualmente estou trabalhando como Analista de Business Intelligence, utilizando o Tableau, na empresa Indiana TCS (Tata Consultancy Services).
 - 🌱 Atualmente estou desenvolvendo minhas habilidades com o Flutter, para projetos pessoais.
@@ -11,6 +12,10 @@
 
 ## Linguagens
 <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/dart.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/php.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/python.png' width='70'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/java.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/r.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/css.png' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/html.jpg' width='60'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/js.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/sql.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/c.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/ruby.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/rdf.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/sparql.png' width='50'/> 
+
+## Business Intelligence
+<img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/spotfire.png' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/tableau.jpg' width='50'/> <img src = 'https://github.com/JulianaAlba/JulianaAlba/blob/master/imagens/powerbi.png' width='50'/> 
+
 
 
 [![Top Langs - Juliana Alba](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAlba&theme=white&langs_count=20)](https://github.com/JulianaAlba/github-readme-stats)
