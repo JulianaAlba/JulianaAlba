@@ -9,7 +9,8 @@
 - 📫 Pode entrar em contato comigo, caso queira companhia para desempenhar e evoluir em algum projeto em equipe, para portfólio ou de cunho profissional independente, seja você DEV ou UX/UI.
 - 🚀 Iniciei no mundo da Tecnologia em 2013 e durante essa trajetória, tive contato com os objetos abaixo...
 
-![Cont Visitas](https://komarev.com/ghpvc/?username=JulianaAlba&color=blue&label=Quantidade+de+Visitas) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaalba/)](https://www.linkedin.com/in/julianaalba/) [![Outlook](https://img.shields.io/badge/-jualba.adm%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jualba.adm@hotmail.com)](mailto:jualba.adm@hotmail.com)
+![Cont Visitas](https://komarev.com/ghpvc/?username=JulianaAlba&color=blue&label=Quantidade+de+Visitas) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianaalba/)](https://www.linkedin.com/in/julianaalba/) [![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=Tableau&logoColor=white&link=https://public.tableau.com/profile/julianaalba)](https://www.linkedin.com/in/julianaalba/) [![Outlook](https://img.shields.io/badge/-jualba.adm%40hotmail.com-blue?style=flat-square&logo=Windows&logoColor=white&link=mailto:jualba.adm@hotmail.com)](mailto:jualba.adm@hotmail.com)
+
 
 
 ## Languages
