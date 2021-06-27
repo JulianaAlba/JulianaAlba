@@ -35,7 +35,7 @@
 
 
 
-[![Top Langs - Juliana Alba](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAlba&theme=white&langs_count=10&exclude_repo=CertificacaoCursoGITeGITHUB)](https://github.com/JulianaAlba/github-readme-stats) ![Top Status - Juliana Alba](https://github-readme-stats.vercel.app/api?username=JulianaAlba&show_icons=true&theme=white)
+[![Top Langs - Juliana Alba](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAlba&theme=white&langs_count=5&exclude_repo=CertificacaoCursoGITeGITHUB)](https://github.com/JulianaAlba/github-readme-stats) ![Top Status - Juliana Alba](https://github-readme-stats.vercel.app/api?username=JulianaAlba&show_icons=true&theme=white)
 
 
 
